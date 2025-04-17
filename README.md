@@ -22,11 +22,23 @@ A custom performance metric was developed using Lasso regression to predict team
 
 ## Project Structure
 
-## Key Results
+data/  
+├── NBAAwayPer100.csv  
+├── NBAHomePer100.csv  
+├── PlayerRAPM.csv  
+├── TeamRAPMMinutesWeighted.csv  
+├── coefficients_df.csv  
+├── master_df_with_lags.csv  
+├── model_coefficients.csv  
+├── players-2.csv  
+├── positions1.csv  
+├── salaries.csv  
 
-- Lasso regression produced the best model (R² = 88.04%, MSE = 15.25)
-- Optimization algorithm generated practical NBA rosters with a mix of star and undervalued players
-- Simulated roster construction under different budget scenarios and constraints
+nba_optimization.ipynb              # Main notebook for model training and optimization  
+DSO 585 Final Project-Copy.ipynb    # Backup or alternate notebook version  
+nba-optimization-report.pdf         # Final report summarizing project findings  
+README.md                           # Project documentation  
+
 
 ## Business Implications
 
