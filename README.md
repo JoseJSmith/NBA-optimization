@@ -38,6 +38,8 @@ nba_optimization.ipynb              # Main notebook for model training and optim
 DSO 585 Final Project-Copy.ipynb    # Backup or alternate notebook version  
 nba-optimization-report.pdf         # Final report summarizing project findings  
 README.md                           # Project documentation  
+final_report.pdf             # Summary of project methodology and findings  
+final_presentation.pptx      # Slide deck used for final presentation  
 
 
 ## Business Implications
